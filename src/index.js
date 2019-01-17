@@ -143,6 +143,7 @@ console.log(arr.map(x=>'web'));//map在这里起到一个替换的作用，这�
 let arr=['jspang','技术胖','前端教程'];
 console.log(arr.join('|'));
 console.log(arr.toString());
+
 /**
  * 函数
  */
